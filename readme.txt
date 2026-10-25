@@ -1,4 +1,4 @@
---Readme document for *YOUR NAME*, *YOUR_EMAIL@uci.edu*--
+--Readme document for Jacob Chang, jacoc10@uci.edu--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
@@ -8,7 +8,7 @@
 - 3/3 Adding a text search interface
 
 2. How long, in hours, did it take you to complete this assignment?
-    around 9 hours
+    around 11 hours
 
 
 
