@@ -20,8 +20,7 @@
     http://mathjs.org/
     https://vega.github.io/vega-lite/examples/
     also made some general searches to understanding how dictionaries worked, "how does a dictionary work in TypeScript?", "how can i perform a copy on a dictionary".
-    also needed to make queries on how do tables work in html and how do listeners work. Had trouble with links and tables not showing, had to use ` and ${}. 
-
+    also search up on how do tables work in html and how do listeners work. Had trouble with links and tables not showing, had to use ` and ${}. 
 
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
